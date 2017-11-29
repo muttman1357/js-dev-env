@@ -1,2 +1,2 @@
 # js-dev-env
-JS development environment
+JS development environment for new projects
